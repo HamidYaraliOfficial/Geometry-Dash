@@ -1,4 +1,4 @@
-# Geometry Dash - README
+# Geometry Dash
 
 ---
 
